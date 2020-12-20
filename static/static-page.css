@@ -1,0 +1,16 @@
+body {
+background:
+    url("Images/sam-pic2.png") top right no-repeat,
+    url("Images/blue-1634110.png");
+    background-repeat: no-repeat;
+}
+
+.hedding h1{
+	font-weight: 500;
+	font-size:46px;
+	text-shadow: 13px 12px 15px rgba(255,255,255,0.54);
+}
+
+.main-section{
+	margin-top: 120px;
+}

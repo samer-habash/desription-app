@@ -1,0 +1,16 @@
+*.log
+.idea/
+venv/
+*project*
+#sshkey fikes
+*.pem
+*.pub
+
+# Local .terraform directories
+**/.terraform/*
+
+# .tfstate files
+*.tfstate
+*.tfstate.*
+*.tfvars
+*.hcl
